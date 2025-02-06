@@ -36,7 +36,7 @@ export function About() {
                             />
                         </div>
                     </div>
-                    <div className="space-y-6 mt-10 px-4">
+                    <div className="space-y-6 mt-10">
                         <h2 className="text-4xl font-bold">Sobre</h2>
 
                         <p>
